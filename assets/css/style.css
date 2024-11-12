@@ -18,9 +18,10 @@ body {
 }
 
 body {
-  background: linear-gradient(rgba(37, 37, 107, 0.37), rgba(58, 58, 160, 0.521)),
-    url("../img/bg.gif");
+  background: linear-gradient(rgb(33 33 191 / 83%), rgb(8 8 223 / 78%)),
+    url(../img/bg.gif);
   background-size: cover;
+  background-attachment: fixed;
 }
 
 #about,
